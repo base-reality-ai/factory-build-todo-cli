@@ -1,0 +1,16 @@
+# Rust
+target/
+Cargo.lock
+# Node
+node_modules/
+dist/
+.next/
+# Env / secrets
+.env
+.env.*
+# Editor
+.vscode/
+.idea/
+*.swp
+# DarkFiber runtime
+.darkfiber/
